@@ -2,7 +2,7 @@ import datetime
 import os
 import time
 
-hostname = "w7el004144"
+hostname = ""  #Statically add hostname.
 
 def PingLookup():
 	while 1 == 1:
